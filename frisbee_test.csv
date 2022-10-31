@@ -1,2 +1,6 @@
-entry,name,Major,Amount Excersise per week (hours),hole1,hole2,hole3,average stroke
-1,Mark Hudson,AET,3,3,4,5,12
+Player,Gender,can_frisbee,excersise,Major,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9,Hole 10,Hole 11,Hole 12,AVG_stroke,Score,fav_hole,enjoy
+1,Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.083,1,deer,10
+2,Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.833,10,fountain,7
+3,Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.333,16,Big light pole,10
+4,Female,No,3,Nursing,5,3,5,5,3,4,3,4,3,3,5,6,4.083,13,deer,7
+5,Male,Yes,3,Songwriting ,3,3,5,4,3,6,3,4,2,2,4,3,3.500,6,Light from mcworther,8
