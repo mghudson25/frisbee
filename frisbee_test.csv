@@ -1,6 +1,11 @@
-Player,Gender,can_frisbee,excersise,Major,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9,Hole 10,Hole 11,Hole 12,AVG_stroke,Score,fav_hole,enjoy
-1,Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.083,1,deer,10
-2,Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.833,10,fountain,7
-3,Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.333,16,Big light pole,10
-4,Female,No,3,Nursing,5,3,5,5,3,4,3,4,3,3,5,6,4.083,13,deer,7
-5,Male,Yes,3,Songwriting ,3,3,5,4,3,6,3,4,2,2,4,3,3.500,6,Light from mcworther,8
+Gender,can_frisbee,excersise,Major,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9,Hole 10,Hole 11,Hole 12,AVG_stroke,fav_hole,Score,enjoy
+Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.08,deer,1,10
+Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.83,fountain,10,7
+Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.33,Big light pole,16,10
+Female,No,3,Nursing,5,3,5,5,3,4,3,4,3,3,5,6,4.08,deer,13,7
+Male,Yes,3,Songwriting,3,3,5,4,3,6,3,4,2,2,4,3,3.50,Light from mcworther,6,8
+Male,Yes,4,General business,2,3,5,3,2,3,3,3,2,2,3,3,2.83,deer,-2,10
+Male,Yes,5,Motion Pictures,4,4,7,4,3,5,4,6,5,3,4,4,4.42,big tree,17,7
+Male,Yes,0,AET,3,5,7,5,4,6,5,5,4,4,5,3,4.67,cross,20,10
+Male,Yes,3,Nursing,4,4,4,3,2,4,3,5,2,3,4,4,3.50,In the birdcage,6,8
+Other,Yes,2,Biology ,4,4,7,6,4,6,5,5,3,5,5,4,4.83,In the birdcage,22,8
