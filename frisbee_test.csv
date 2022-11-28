@@ -1,4 +1,4 @@
-Gender,can_frisbee,excersise,Major,Hole 1,Hole 2,Hole 3,Hole 4,Hole 5,Hole 6,Hole 7,Hole 8,Hole 9,Hole 10,Hole 11,Hole 12,AVG_stroke,fav_hole,Score,enjoy,frisbee_club
+gender,can_frisbee,excersise,major,hole1,hole2,hole3,hole4,hole5,hole6,hole7,hole8,hole9,hole10,hole11,hole12,AVG_stroke,fav_hole,score,enjoy,frisbee_club
 Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.08,deer,1,10,no
 Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.83,fountain,10,7,no
 Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.33,Big light pole,16,10,no
@@ -16,7 +16,7 @@ Male,Yes,15,Data science ,3,3,3,3,2,4,2,3,2,3,3,2,2.75,fountain,-3,10,Yes
 Female,Yes,7,Experiential design,4,4,6,4,5,4,4,5,4,5,4,3,4.33,Big light pole,16,10,Yes
 Male,Yes,15,Music business ,4,4,4,3,3,4,3,3,2,2,4,3,3.25,cross,3,10,Yes
 Female,Yes,12,Social entrepreneurship ,3,6,6,4,2,7,4,5,5,4,5,4,4.58,big tree,19,10,Yes
-Female,Yes,2,Songwriting ,4,6,6,4,3,8,4,4,2,3,4,4,4.33,woman with bird,16,10,Yes
+Female,Yes,2,Songwriting,4,6,6,4,3,8,4,4,2,3,4,4,4.33,woman with bird,16,10,Yes
 Female,Yes,6,Environmental science ,4,6,6,3,3,6,3,4,4,3,5,4,4.25,cross,15,10,Yes
 Male,Yes,16,AET,3,3,3,3,3,4,3,2,2,2,3,3,2.83,Light from mcworther,-2,10,Yes
 Male,Yes,2,AET,3,3,5,3,2,3,2,3,3,2,3,3,2.92,Light from mcworther,-1,9,Yes
