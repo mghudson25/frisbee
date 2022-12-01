@@ -1,14 +1,14 @@
 gender,can_frisbee,exercise,major,hole1,hole2,hole3,hole4,hole5,hole6,hole7,hole8,hole9,hole10,hole11,hole12,AVG_stroke,fav_hole,score,enjoy,frisbee_club
-Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.08,deer,1,10,no
-Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.83,fountain,10,7,no
-Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.33,Big light pole,16,10,no
-Female,No,3,Nursing,5,3,5,5,3,4,3,4,3,3,5,6,4.08,deer,13,7,no
-Male,Yes,3,Songwriting,3,3,5,4,3,6,3,4,2,2,4,3,3.50,Light from mcworther,6,8,no
+Male,Yes,3,AET,3,3,4,2,1,4,3,3,2,3,5,4,3.08,deer,1,10,No
+Female,No,3,Computer Science,4,4,6,3,3,6,3,4,2,3,4,4,3.83,fountain,10,7,No
+Male,Yes,0,Data Science,4,5,5,4,4,6,5,4,4,3,5,3,4.33,Big light pole,16,10,No
+Female,No,3,Nursing,5,3,5,5,3,4,3,4,3,3,5,6,4.08,deer,13,7,No
+Male,Yes,3,Songwriting,3,3,5,4,3,6,3,4,2,2,4,3,3.50,Light from mcworther,6,8,No
 Male,Yes,4,General business,2,3,5,3,2,3,3,3,2,2,3,3,2.83,deer,-2,10,yes
-Male,Yes,5,Motion Pictures,4,4,7,4,3,5,4,6,5,3,4,4,4.42,big tree,17,7,no
-Male,Yes,0,AET,3,5,7,5,4,6,5,5,4,4,5,3,4.67,cross,20,10,no
-Male,Yes,3,Nursing,4,4,4,3,2,4,3,5,2,3,4,4,3.50,In the birdcage,6,8,no
-Other,Yes,2,Biology,4,4,7,6,4,6,5,5,3,5,5,4,4.83,In the birdcage,22,8,no
+Male,Yes,5,Motion Pictures,4,4,7,4,3,5,4,6,5,3,4,4,4.42,big tree,17,7,No
+Male,Yes,0,AET,3,5,7,5,4,6,5,5,4,4,5,3,4.67,cross,20,10,No
+Male,Yes,3,Nursing,4,4,4,3,2,4,3,5,2,3,4,4,3.50,In the birdcage,6,8,No
+Other,Yes,2,Biology,4,4,7,6,4,6,5,5,3,5,5,4,4.83,In the birdcage,22,8,No
 Male,Yes,5,Data Science,3,4,4,3,3,4,3,4,3,4,3,4,3.50,fountain,6,8,No
 Male,Yes,10,Music Business,2,4,5,3,3,4,2,4,3,3,4,5,3.50,fountain,6,9,Yes
 Male,Yes,4,AET,5,3,4,3,2,4,3,4,2,3,5,3,3.42,woman with bird,5,10,Yes
